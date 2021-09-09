@@ -9,6 +9,7 @@ numpy = "*"
 keras = "*"
 tensorflow = "*"
 jupyter = "*"
+Pipfile = "*"
 
 [dev-packages]
 
